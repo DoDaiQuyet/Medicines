@@ -1,0 +1,13 @@
+<resources>
+    <string name="slogan_home">Medication Reminder sẽ nhắc nhở bạn uống thuốc đúng giờ!</string>
+    <string name="sipnup">Tạo tài khoản</string>
+    <string name="signupname">Cho Medicine Reminder biết tên của bạn</string>
+    <string name="namesignup">Tên của bạn</string>
+    <string name="gioitinh">Giới tính</string>
+    <string name="date">Ngày, tháng, năm sinh</string>
+    <string name="get_start">Get start</string>
+    <string name="signup">Hoàn thành</string>
+    <string name="male">Nam</string>
+    <string name="female">Nữ</string>
+    />
+</resources>
